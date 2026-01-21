@@ -25,7 +25,7 @@ A simple Python console game where you try to guess a random number between **1 
 
 ---
 
-## ▶️ How to Run (All Inside One Markdown Block)
+## ▶️ How to Run 
 
 ```bash
 # 1) Clone the repository
